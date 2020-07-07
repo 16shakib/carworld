@@ -1,0 +1,83 @@
+img{
+    max-height: 100%;
+    max-width:100%;
+    padding-bottom: 40px;
+}
+
+body{}
+
+.navbar-section{}
+.carosol-section{}
+.carosol-section .col-xl-6{}
+.brand-logo-section{}
+
+
+.automotive-section{
+    text-align: center;
+}
+.automotive-section .col-xl-6{
+    /* justify-content: center; */
+    text-align: center;
+}
+.automotive-section img{
+    max-height: 100%;
+    margin-left: 30px;
+}
+.automotive-section h5{padding-top: 70px;text-align: left;padding-left: 50px;}
+.automotive-section p{text-align: initial;padding: 5px 200px 5px 50px;}
+
+.public-sector-section{
+    text-align: center;
+}
+.public-sector-section .col-xl-6{/* padding-left: 95px; */text-align: center;}
+.public-sector-section img{/* margin-left: -28px; */}
+.public-sector-section h5{padding-top: 70px;text-align: center;padding-left: 50px;}
+.public-sector-section p{text-align: initial;padding: 5px 50px 5px 200px;}
+
+
+.transportation-section{
+    max-height: 100%;
+    margin-left: 60px;
+    text-align: center;
+}
+.transportation-section .col-xl-6{text-align: center;}
+.transportation-section img{}
+.transportation-section h5{padding-top: 70px;text-align: left;padding-left: 50px;}
+.transportation-section p{text-align: initial;padding: 5px 200px 5px 50px;}
+
+
+.built-section{
+    text-align: center;
+    /* justify-content: center; */
+    /* padding-top: 0px; */
+}
+
+
+.unlock-section{
+    padding-bottom: 50px;
+    padding-top: 85px;
+}
+.unlock-section h4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.lets-talk-section{
+    padding-top: 80px;
+    color: white;
+}
+.lets-talk-section h5{padding-top: 40px;text-align: left;padding-left: 5px;}
+.lets-talk-section p{text-align: initial;/* padding: 5px 200px 5px 50px; */}
+
+.ready-section{
+    padding-bottom: 88px;
+}
+.ready-section h5{}
+
+.final-section{
+    padding-top: 80px;
+    background-color: #434a52;
+    color: white;
+    padding-bottom: 80px;
+    
+}
